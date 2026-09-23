@@ -62,5 +62,5 @@ My work spans **Python**, **PyTorch**, **scikit-learn**, **MLflow**, and **Datab
 
 ### 📫 Let's Connect
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 📍 [LinkedIn](https://www.linkedin.com/in/rifat-haque-uw/)
+- 📧 [rifat.haque85@gmail.com](mailto:rifat.haque85@gmail.com)
